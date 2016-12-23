@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_72b18bafa9cf0368968c2b29dbed9b7c88744319\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_484e7db203940e7909cb07113a276559806f4ba8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_322e8b7e46bcf6638eeb35aff52a24d219e7eb95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_ada1c162efdc50212089b2689179f9fd26d43c05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_d572e083a77c5901114604db5708e7f64c9a7843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e06a69c2d8475252f1e610cf82b65baa8c2c29b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.4.0_55de6e0f8d07692955b835ff8b64582795b8fcf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_ff7b22a771db3144a9313d05cbfa423afe83e40f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_c4d4011c538d992ea7e31459bd7f2d392cee7476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_a1a40126c17d3e76cd7af3d2b2238bb513593d0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_0577dc44085828ed397a0cafff886af8e1572acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_6f15189739b7e89cf62dfa353f834cf3663bf643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_8ec7157e8ea72428928d02e6feaeb8f9aa2105e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_a543aa3cae19270ca7de7ff182688c2495b936b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\.gradle\caches\modules-2\files-2.1\org.ocpsoft.prettytime\prettytime\4.0.1.Final\5537d74e2102a82fd937dd9b8a652e3b26026a7a\prettytime-4.0.1.Final.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5537d74e2102a82fd937dd9b8a652e3b26026a7a">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\prettytime-4.0.1.Final_7f90c92a4704909a223b92291607bf81bbeb800c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c94286937d3669b07496427a1dcf3bc8917aff13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_842ff9d7e6f8e21cf70e69c60a3ca1f778eebe6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_5af0b0843306da5db982803411f02c824aafa572\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4d3ae5756732d60e14b7dfdf3250759397a51596\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_369e78c2d10a7fe1dd61073ef5226788e0334ea4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.17.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23c7c34bfb3cdc0599d49e581486b179bc6b2eee">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.17.0_3627a6b0016700e31c037338f6bb2b712d5ac1f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_9009c282908e97d9a492db60e2c316751664e9b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_be4672ed7bbb597bcc0ad612493dd366ef6dec4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_fafc76c97f53eaeaa32e1e970fcf7e797800d06c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_dac27b8ab3d2f982a310f563012525bd504f7be1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_5b780ee9ccd10765b277ec046135d6c6dcc126c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_ab81e3edc271cba5569fa156ac529282580c474a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_d54ed9743b2a276ba247a2bec8669c1343b77bf1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_20dc332699248068a481f857fce19da9461ce899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_7442c63b136991a0536cca9e46e1d6c060c88c96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_8c97c29e7e61bcc06da13c1e9ed3f8195d2daff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65f99829d4b449e41db0b488c245a410db567e6f">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6832e45d72b3ffca46ea73ca6da50b18c2150925\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_5eef7844cf361922c7c48009f62de0f7463cd4e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_07a65e91e245db9f41bb3d55213dbe16577dbe05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_3ff83144bd6744c2266db92280ea3d9f97d9b02a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_9db2d070f46c69c26a125d85feabb1903ea5f0f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1d4e36f26ee6a329cdd910138147d6a55be644da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_10b77f8be8e56153af7cea963ef7646f1c6c2566\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_2d7a1d1fa8102905bf72734f7f33b361250be467\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="caada0c5e55c574ea2bb3fd2842a5ec33aa0a1b2">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_28ce0e91ed45a02672f4858d397ca91669bab57e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_37300f2efe549ca1335542ed7ad1df3181f2c87f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-storage\0.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-storage-0.6.0_4f0841896ddf99907943bd25d587411494499f22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\rigot\Desktop\SocialApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_89a41223d545c1e3082345e24609a632c4e49966\classes.dex" />
+    </item>
+
+</items>

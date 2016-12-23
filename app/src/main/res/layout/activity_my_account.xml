@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_my_account"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.rigot.socialapp.MyAccount">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/userNameLabelMyAccount"
+        android:text="My Account"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        app:srcCompat="@drawable/back"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/backButtonMyAccount" />
+
+    <TextView
+        android:text="@string/firstNameLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/backButtonMyAccount"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="55dp"
+        android:id="@+id/firstNameLabel" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_below="@+id/firstNameLabel"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"
+        android:id="@+id/firstNameEditMyAccount"
+        android:layout_alignRight="@+id/userNameLabelMyAccount"
+        android:layout_alignEnd="@+id/userNameLabelMyAccount"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        app:srcCompat="@drawable/edit"
+        android:layout_alignTop="@+id/firstNameEditMyAccount"
+        android:layout_toRightOf="@+id/firstNameEditMyAccount"
+        android:layout_toEndOf="@+id/firstNameEditMyAccount"
+        android:layout_marginLeft="14dp"
+        android:layout_marginStart="14dp"
+        android:id="@+id/editFirstNameButton" />
+
+    <TextView
+        android:text="@string/lastNameLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/firstNameEditMyAccount"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="25dp"
+        android:id="@+id/lastNameLabel" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_below="@+id/lastNameLabel"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="18dp"
+        android:id="@+id/lastNameEditMyAccount"
+        android:layout_alignRight="@+id/firstNameEditMyAccount"
+        android:layout_alignEnd="@+id/firstNameEditMyAccount"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        app:srcCompat="@drawable/edit"
+        android:layout_alignBottom="@+id/lastNameEditMyAccount"
+        android:layout_alignLeft="@+id/editFirstNameButton"
+        android:layout_alignStart="@+id/editFirstNameButton"
+        android:id="@+id/editLastNameButton" />
+
+    <TextView
+        android:text="@string/genderLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lastNameEditMyAccount"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="14dp"
+        android:id="@+id/genderLabel" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_below="@+id/genderLabel"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="19dp"
+        android:id="@+id/genderEditMyAccount"
+        android:layout_alignRight="@+id/lastNameEditMyAccount"
+        android:layout_alignEnd="@+id/lastNameEditMyAccount"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        app:srcCompat="@drawable/edit"
+        android:layout_alignBottom="@+id/genderEditMyAccount"
+        android:layout_alignLeft="@+id/editLastNameButton"
+        android:layout_alignStart="@+id/editLastNameButton"
+        android:id="@+id/editGenderButton" />
+
+    <TextView
+        android:text="@string/profilePicLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/genderEditMyAccount"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="16dp"
+        android:id="@+id/profilePicLabel" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/profilePicLabel"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/profilePicture" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        app:srcCompat="@drawable/edit"
+        android:layout_below="@+id/genderEditMyAccount"
+        android:layout_alignLeft="@+id/userNameLabelMyAccount"
+        android:layout_alignStart="@+id/userNameLabelMyAccount"
+        android:id="@+id/editProfilePicButton" />
+
+    <Button
+        android:text="Delete My Account"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/acctDeleteButton"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_alignBaseline="@+id/userNameLabelMyAccount"
+        android:layout_alignBottom="@+id/userNameLabelMyAccount"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignLeft="@+id/editFirstNameButton"
+        android:layout_alignStart="@+id/editFirstNameButton" />
+</RelativeLayout>
